@@ -1,4 +1,4 @@
-from project.elf import Elf
+from project.computer_types import Elf
 
 
 class MuseElf(Elf):

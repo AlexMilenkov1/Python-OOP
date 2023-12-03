@@ -1,4 +1,4 @@
-from project.room import Room
+from project.computer_types import Room
 
 
 class Hotel:

@@ -1,4 +1,4 @@
-from project.hero import Hero
+from project.computer_types import Hero
 
 
 class Wizard(Hero):

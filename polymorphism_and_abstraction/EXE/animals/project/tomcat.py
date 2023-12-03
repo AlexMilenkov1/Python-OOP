@@ -1,4 +1,4 @@
-from project.cat import Cat
+from project.computer_types import Cat
 
 
 class Tomcat(Cat):

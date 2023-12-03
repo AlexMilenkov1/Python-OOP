@@ -1,4 +1,4 @@
-from project.person import Person
+from project.computer_types import Person
 
 
 class Child(Person):

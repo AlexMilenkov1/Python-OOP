@@ -1,4 +1,4 @@
-from project.worker import Worker
+from project.computer_types import Worker
 
 
 class Vet(Worker):

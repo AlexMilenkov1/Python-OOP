@@ -1,6 +1,6 @@
-from project.category import Category
-from project.document import Document
-from project.topic import Topic
+from project.computer_types import Category
+from project.computer_types import Document
+from project.computer_types import Topic
 
 
 class Storage:

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from project.food import Food
+from project.computer_types import Food
 
 
 class Animal(ABC):

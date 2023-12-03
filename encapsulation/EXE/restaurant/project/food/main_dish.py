@@ -1,4 +1,4 @@
-from project.food.food import Food
+from project.computer_types import Food
 
 
 class MainDish(Food):

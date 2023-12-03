@@ -1,4 +1,4 @@
-from project.food.starter import Starter
+from project.computer_types import Starter
 
 
 class Soup(Starter):

@@ -1,4 +1,4 @@
-from project.task import Task
+from project.computer_types import Task
 
 
 class Section:

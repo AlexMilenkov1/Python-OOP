@@ -1,4 +1,4 @@
-from project.vehicle import Vehicle
+from project.computer_types import Vehicle
 
 
 class Car(Vehicle):

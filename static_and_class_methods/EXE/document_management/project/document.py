@@ -1,5 +1,5 @@
-from project.category import Category
-from project.topic import Topic
+from project.computer_types import Category
+from project.computer_types import Topic
 
 
 class Document:

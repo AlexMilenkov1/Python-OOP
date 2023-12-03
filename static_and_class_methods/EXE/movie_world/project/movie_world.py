@@ -1,5 +1,5 @@
-from project.customer import Customer
-from project.dvd import DVD
+from project.computer_types import Customer
+from project.computer_types import DVD
 
 
 class MovieWorld:

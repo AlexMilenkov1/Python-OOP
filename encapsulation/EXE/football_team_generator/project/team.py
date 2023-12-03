@@ -1,4 +1,4 @@
-from project.player import Player
+from project.computer_types import Player
 
 
 class Team:

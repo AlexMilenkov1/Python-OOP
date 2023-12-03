@@ -1,4 +1,4 @@
-from project.animals.animal import Bird
+from project.computer_types import Bird
 
 
 class Owl(Bird):

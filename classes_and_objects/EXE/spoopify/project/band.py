@@ -1,5 +1,5 @@
-from project.album import Album
-from project.song import Song
+from project.computer_types import Album
+from project.computer_types import Song
 
 
 class Band:

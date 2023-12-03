@@ -1,5 +1,5 @@
-from project.dough import Dough
-from project.topping import Topping
+from project.computer_types import Dough
+from project.computer_types import Topping
 
 
 class Pizza:

@@ -1,4 +1,4 @@
-from project.wizard import Wizard
+from project.computer_types import Wizard
 
 
 class SoulMaster(Wizard):

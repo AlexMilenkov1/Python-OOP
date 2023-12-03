@@ -1,4 +1,4 @@
-from project.product import Product
+from project.computer_types import Product
 
 
 class Food(Product):
